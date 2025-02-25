@@ -1,1 +1,1 @@
-# SWI-semester-project
+# Software engineering project
