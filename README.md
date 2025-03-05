@@ -1,6 +1,9 @@
 # Software Engineering Project
 - This project was developed as a semester thesis within the subject Software Engineering. 
 - The aim was to design and implement a software system according to the given requirements, with emphasis on the correct use of the principles of software development, analysis and system design.
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/ac1de258-2c06-4589-b109-df6fe3e205c2" width="350">
+    </p>
 
 ## Table of Contents
 
