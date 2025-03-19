@@ -52,7 +52,7 @@ The system should be used for ordering and serving meals (breakfast/lunch/dinner
 	-   Activity and sequence diagrams do not have to represent the same scenarios.
 - **State Diagram**: Draw a state diagram for the developed system. If necessary, multiple smaller state diagrams can be created instead of one large diagram.
  
- #### 3.  Acceptance tests
+ #### 3. Acceptance tests
  Create tests to determine whether the developed system meets the requirements—i.e., whether the customer accepts it or not. Each test should be documented in a table with at least the following sections:
 
 -   **Identifier**
@@ -69,7 +69,7 @@ Include at least **four acceptance tests** in the documentation:
 -   Three related to **functional requirements**
 -   One related to **non-functional requirements**
  
-#### 4.  Project Planning
+#### 4. Project Planning
 Create a development (implementation) plan for your system.
 
 1.  **Task Breakdown**: Define at least **10 tasks** and assign them to at least **4 team members**. The number of tasks should reflect the complexity of the project.
